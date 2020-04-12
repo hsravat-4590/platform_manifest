@@ -1,4 +1,4 @@
-DerpFest
+ROS - RavatOS
 ==============
 
 Getting Started
@@ -7,10 +7,10 @@ Getting Started
 To get started with Android, you'll need to get
 familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
-To initialize your local repository using the DerpFest trees, use a command like this:
+To initialize your local repository using the RavatOS trees, use a command like this:
 
 ```bash
-repo init -u git://github.com/DerpLab/platform_manifest.git -b ten
+repo init -u git://github.com/hsravat-4590/platform_manifest.git -b ten
 ```
 Then to sync up:
 ```bash
@@ -57,7 +57,7 @@ git commit --amend --author "Shreesha <shreeshu10@gmail.com>"
 ## Thanks section ##
 
 Here's my thanks to people who made this possible:
-
+* DerpLab
 * AOSiP
 * PixelExperience
 * CrDroid
